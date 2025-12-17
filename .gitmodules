@@ -5,7 +5,3 @@
 [submodule "lme4"]
 	path = lme4
 	url = https://github.com/lme4/lme4
-[submodule "reformulas"]
-	path = reformulas
-	url = https://github.com/bbolker/reformulas
-	registered = false
