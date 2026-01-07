@@ -1,0 +1,8 @@
+[
+  {
+    "package": "reformulas",
+    "url": "https://github.com/bbolker/reformulas",
+    "via": ["lme4"],
+    "from": "lme4"
+  }
+]
