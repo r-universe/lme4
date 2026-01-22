@@ -1,7 +1,7 @@
 [
   {
-    "package": "reformulas",
-    "url": "https://github.com/bbolker/reformulas",
+    "package": "MEMSS",
+    "url": "https://github.com/cran/MEMSS",
     "via": ["lme4"],
     "from": "lme4"
   }

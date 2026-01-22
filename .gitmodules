@@ -2,10 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MEMSS"]
+	path = MEMSS
+	url = https://github.com/cran/MEMSS
+	registered = false
 [submodule "lme4"]
 	path = lme4
 	url = https://github.com/lme4/lme4
-[submodule "reformulas"]
-	path = reformulas
-	url = https://github.com/bbolker/reformulas
-	registered = false
