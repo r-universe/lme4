@@ -1,8 +1,0 @@
-[
-  {
-    "package": "MEMSS",
-    "url": "https://github.com/cran/MEMSS",
-    "via": ["lme4"],
-    "from": "lme4"
-  }
-]
